@@ -1,0 +1,32 @@
+[
+  {
+    "disease": "Early Blight",
+    "crop": "Tomato",
+    "symptoms": "Brown spots on leaves",
+    "treatment": "Use Mancozeb fungicide"
+  },
+  {
+    "disease": "Late Blight",
+    "crop": "Potato",
+    "symptoms": "Dark patches on leaves",
+    "treatment": "Apply Copper Oxychloride"
+  },
+  {
+    "disease": "Leaf Curl Virus",
+    "crop": "Tomato",
+    "symptoms": "Curling of leaves",
+    "treatment": "Control whiteflies"
+  },
+  {
+    "disease": "Blast Disease",
+    "crop": "Paddy",
+    "symptoms": "Diamond-shaped lesions",
+    "treatment": "Use Tricyclazole"
+  },
+  {
+    "disease": "Rust",
+    "crop": "Wheat",
+    "symptoms": "Orange powdery spots",
+    "treatment": "Use Propiconazole"
+  }
+]

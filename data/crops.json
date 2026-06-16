@@ -1,0 +1,65 @@
+[
+  {
+    "crop": "Paddy",
+    "soil": "Clay Soil",
+    "season": "Kharif",
+    "water_requirement": "High",
+    "description": "Major rice crop grown in India."
+  },
+  {
+    "crop": "Wheat",
+    "soil": "Loamy Soil",
+    "season": "Rabi",
+    "water_requirement": "Medium",
+    "description": "Important cereal crop."
+  },
+  {
+    "crop": "Maize",
+    "soil": "Well-drained Loamy Soil",
+    "season": "Kharif",
+    "water_requirement": "Medium",
+    "description": "Used for food and livestock feed."
+  },
+  {
+    "crop": "Cotton",
+    "soil": "Black Soil",
+    "season": "Kharif",
+    "water_requirement": "Medium",
+    "description": "Major fiber crop."
+  },
+  {
+    "crop": "Sugarcane",
+    "soil": "Loamy Soil",
+    "season": "Annual",
+    "water_requirement": "High",
+    "description": "Commercial cash crop."
+  },
+  {
+    "crop": "Groundnut",
+    "soil": "Sandy Loam Soil",
+    "season": "Kharif",
+    "water_requirement": "Low",
+    "description": "Oilseed crop."
+  },
+  {
+    "crop": "Ragi",
+    "soil": "Red Soil",
+    "season": "Kharif",
+    "water_requirement": "Low",
+    "description": "Nutritious millet crop."
+  },
+  {
+    "crop": "Soybean",
+    "soil": "Black Soil",
+    "season": "Kharif",
+    "water_requirement": "Medium",
+    "description": "Protein-rich crop."
+  },
+  {
+  "crop":"Paddy",
+  "soil":"Clay Soil",
+  "season":"Kharif",
+  "water_requirement":"High",
+  "image":"paddy.jpg"
+}
+]

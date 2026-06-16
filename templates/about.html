@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>About AI Crop Advisor</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/style.css') }}">
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/pages.css') }}">
+
+
+</head>
+
+<body>
+<nav class="navbar">
+
+    <div class="nav-logo">
+        🌾 AI Crop Advisor
+    </div>
+
+    <div class="nav-links">
+
+        <a href="/home">Home</a>
+
+        <a href="/about">About</a>
+
+        <a href="/technology">Technology</a>
+
+        <a href="/developer">Developer</a>
+
+        <span class="user-info">
+            👨‍🌾 {{ session['name'] }}
+        </span>
+
+        <a href="/logout" class="logout-btn">
+            Logout
+        </a>
+
+    </div>
+
+</nav>
+
+<div class="page-container">
+
+<div class="page-header">
+
+    <h1>🌾 About AI Crop Advisor</h1>
+
+    <p>
+        Smart Farming Powered by Artificial Intelligence
+    </p>
+
+</div>
+
+<div class="info-card">
+
+    <h2>🎯 Project Objective</h2>
+
+    <p>
+        AI Crop Advisor is an intelligent agriculture assistant designed to support farmers, agriculture students, and agricultural professionals by providing accurate and practical farming guidance using Artificial Intelligence.
+    </p>
+
+</div>
+
+<div class="info-card">
+
+    <h2>🌱 Key Benefits</h2>
+
+    <ul>
+        <li>24/7 AI-powered farming assistance</li>
+        <li>Crop recommendation support</li>
+        <li>Fertilizer and nutrient guidance</li>
+        <li>Disease identification and treatment suggestions</li>
+        <li>Weather information integration</li>
+        <li>English and Kannada language support</li>
+        <li>Voice-enabled interaction</li>
+        <li>Mobile-friendly responsive design</li>
+    </ul>
+
+</div>
+
+<div class="info-card">
+
+    <h2>🚀 Future Enhancements</h2>
+
+    <ul>
+        <li>Crop disease detection using image upload</li>
+        <li>Satellite-based crop monitoring</li>
+        <li>Advanced weather forecasting</li>
+        <li>Market price prediction</li>
+        <li>Farmer dashboard and analytics</li>
+        <li>AI-powered personalized crop planning</li>
+    </ul>
+
+</div>
+
+<a href="/home" class="back-home">
+    ← Back to Home
+</a>
+
+
+</div>
+
+<script
+src="{{ url_for('static', filename='js/script.js') }}">
+</script>
+</body>
+</html>

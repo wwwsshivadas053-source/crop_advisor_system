@@ -1,0 +1,27 @@
+[
+  {
+    "fertilizer": "Urea",
+    "purpose": "Nitrogen Supply",
+    "usage": "Apply in split doses"
+  },
+  {
+    "fertilizer": "DAP",
+    "purpose": "Nitrogen and Phosphorus",
+    "usage": "Basal application"
+  },
+  {
+    "fertilizer": "MOP",
+    "purpose": "Potassium Supply",
+    "usage": "Apply according to soil test"
+  },
+  {
+    "fertilizer": "NPK 19:19:19",
+    "purpose": "Balanced Nutrition",
+    "usage": "Foliar spray"
+  },
+  {
+    "fertilizer": "Vermicompost",
+    "purpose": "Organic Nutrients",
+    "usage": "Mix with soil"
+  }
+]

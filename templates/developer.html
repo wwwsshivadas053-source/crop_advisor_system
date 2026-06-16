@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Developer</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/style.css') }}">
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/pages.css') }}">
+
+</head>
+
+<body>
+
+<nav class="navbar">
+
+    <div class="nav-logo">
+        🌾 AI Crop Advisor
+    </div>
+
+    <div class="nav-links">
+
+        <a href="/home">Home</a>
+
+        <a href="/about">About</a>
+
+        <a href="/technology">Technology</a>
+
+        <a href="/developer">Developer</a>
+
+        <span class="user-info">
+            👨‍🌾 {{ session['name'] }}
+        </span>
+
+        <a href="/logout" class="logout-btn">
+            Logout
+        </a>
+
+    </div>
+
+</nav>
+
+<div class="page-container">
+
+<div class="page-header">
+
+    <h1>👨‍💻 Developer Information</h1>
+
+    <p>
+        Meet the Developer Behind AI Crop Advisor
+    </p>
+
+</div>
+
+<div class="profile-card">
+
+    <div class="profile-image">
+        👨‍💻
+    </div>
+
+    <h2>Prajwal T.S.</h2>
+
+    <h4>AI & Generative AI Developer</h4>
+
+    <p>
+        AI Crop Advisor was designed and developed by Prajwal T.S. to help farmers make smarter agricultural decisions using Artificial Intelligence.
+    </p>
+
+    <div class="skills">
+
+        <span class="skill">Python</span>
+        <span class="skill">Flask</span>
+        <span class="skill">Machine Learning</span>
+        <span class="skill">GenAI</span>
+        <span class="skill">HTML</span>
+        <span class="skill">CSS</span>
+        <span class="skill">JavaScript</span>
+
+    </div>
+
+</div>
+
+<div class="info-card">
+
+    <h2>🎓 Education</h2>
+
+    <ul>
+        <li>Degree: St. Anne's Degree College, Virajpet</li>
+        <li>PUC: St. Anne's PU College, Virajpet</li>
+        <li>SSLC: Sacred Heart School, Napoklu</li>
+    </ul>
+
+</div>
+
+<div class="info-card">
+
+    <h2>💡 Areas of Interest</h2>
+
+    <ul>
+        <li>Artificial Intelligence</li>
+        <li>Generative AI</li>
+        <li>Machine Learning</li>
+        <li>Prompt Engineering</li>
+        <li>Python Development</li>
+        <li>Agriculture Technology</li>
+    </ul>
+
+</div>
+
+<a href="/home" class="back-home">
+    ← Back to Home
+</a>
+
+</div>
+
+<script
+src="{{ url_for('static', filename='js/script.js') }}">
+</script>
+</body>
+</html>
