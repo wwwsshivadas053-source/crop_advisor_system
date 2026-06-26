@@ -279,16 +279,24 @@ SQLite is used for storing
 ---
 
 # 📸 Screenshots
-
+<p
 <img width="1366" height="633" alt="re" src="https://github.com/user-attachments/assets/eaacb47f-095d-4219-a91a-3707feae1b65" />
+  <br>
 <img width="1366" height="631" alt="log" src="https://github.com/user-attachments/assets/6128b8b6-db9a-49d5-8e21-916a977b36af" />
+  <br>
 <img width="1358" height="623" alt="home" src="https://github.com/user-attachments/assets/a4f2638d-b9c6-476f-b4b1-06499751d26f" />
+  <br>
 <img width="1356" height="624" alt="home2" src="https://github.com/user-attachments/assets/ada834df-c693-49c2-ab47-084714f11c74" />
+  <br>
 <img width="1351" height="620" alt="home3" src="https://github.com/user-attachments/assets/8bd6eca6-516f-4c6f-a499-97a250d404fa" />
+  <br>
 <img width="1354" height="633" alt="abo" src="https://github.com/user-attachments/assets/6b34a6bb-e09b-4a4d-83a6-e68a915e0eaf" />
+  <br>
 <img width="1353" height="631" alt="dev" src="https://github.com/user-attachments/assets/9d48001a-5599-4838-877a-39b2acdceb6c" />
+  <br>
 <img width="1351" height="628" alt="tech" src="https://github.com/user-attachments/assets/e5359847-0089-499c-8e94-2fc98319a90e" />
-
+  <br>
+/p>
 
 # 🔄 Workflow
 
