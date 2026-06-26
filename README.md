@@ -280,8 +280,6 @@ SQLite is used for storing
 
 # 📸 Screenshots
 
-
-```
 <img width="1366" height="633" alt="re" src="https://github.com/user-attachments/assets/eaacb47f-095d-4219-a91a-3707feae1b65" />
 <img width="1366" height="631" alt="log" src="https://github.com/user-attachments/assets/6128b8b6-db9a-49d5-8e21-916a977b36af" />
 <img width="1358" height="623" alt="home" src="https://github.com/user-attachments/assets/a4f2638d-b9c6-476f-b4b1-06499751d26f" />
@@ -291,7 +289,6 @@ SQLite is used for storing
 <img width="1353" height="631" alt="dev" src="https://github.com/user-attachments/assets/9d48001a-5599-4838-877a-39b2acdceb6c" />
 <img width="1351" height="628" alt="tech" src="https://github.com/user-attachments/assets/e5359847-0089-499c-8e94-2fc98319a90e" />
 
-```
 
 # 🔄 Workflow
 
