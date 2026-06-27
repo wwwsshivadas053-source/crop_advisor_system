@@ -477,13 +477,13 @@ https://github.com/yourusername
 LinkedIn:
 
 ```
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/prajwal-t-s-354a57359
 ```
 
 Email:
 
 ```
-your.email@example.com
+prajwalts098@gmail.com
 ```
 
 ---
