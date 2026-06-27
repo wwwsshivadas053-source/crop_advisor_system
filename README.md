@@ -471,7 +471,7 @@ AI & Full Stack Developer
 GitHub:
 
 ```
-https://github.com/yourusername
+https://github.com/wwwsshivadas053-source
 ```
 
 LinkedIn:
